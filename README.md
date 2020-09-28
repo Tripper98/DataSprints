@@ -1,7 +1,7 @@
 # Data Sprints Test
  Author : Adnane DRIOUCHE
 
-[![N|Solid](/img/logo.png)](https://datasprints.com/)
+<img src="/img/logo.png">
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://datasprints.com/)
 
