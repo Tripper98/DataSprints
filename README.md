@@ -1,7 +1,7 @@
 # Data Sprints Test
  Author : Adnane DRIOUCHE
 
-<img src="/img/logo.png">
+![logo](https://user-images.githubusercontent.com/46791116/94432486-20fbe280-0197-11eb-9d6b-57c25c6bbcc0.png)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://datasprints.com/)
 
