@@ -36,7 +36,7 @@ $ pip install requirement.txt
 
 I supposed that you are already installed jupyter notebook ! 
 #### 1. Download Data into directory Test :
-
+:) 
 #### 2. Rename files as follows :
 Example : 
 change the name of first trip data (2009) to trips2009.json and so on ! 
